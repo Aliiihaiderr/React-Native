@@ -1,0 +1,109 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Inter-Black.ttf",
+      "sha1": "f79fa58ace5f55e338c99bf71e7e0702841df6f2"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Bold.ttf",
+      "sha1": "47ff07c75746682133b81e7ac0537ce50a4c9916"
+    },
+    {
+      "path": "src/assets/fonts/Inter-ExtraBold.ttf",
+      "sha1": "c9b3d2f2449ab2c67ff075f806973fa3d7e104b3"
+    },
+    {
+      "path": "src/assets/fonts/Inter-ExtraLight.ttf",
+      "sha1": "f78ee1d6cbfc64f656247c604ef270ef116abbf5"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Light.ttf",
+      "sha1": "cbb2506d8da21edbb2dc8cfa26e3b42a97d138f8"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Medium.ttf",
+      "sha1": "e76f580811e031813e7150131a0724811cdd737a"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Regular.ttf",
+      "sha1": "cfa780d0b50b2bb7eacb82984f1b18a95aaa40c5"
+    },
+    {
+      "path": "src/assets/fonts/Inter-SemiBold.ttf",
+      "sha1": "5e0c44e57e7e090252d79f622899e67585bb892c"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Thin.ttf",
+      "sha1": "757805e615c974756646e54ceff8e409d5c47207"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-Bold.ttf",
+      "sha1": "a6b63c832d12337efb3123f47863f54472c81bf5"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-ExtraBold.ttf",
+      "sha1": "01e9f1ed4df60771240fd42f5ac9dcaf398f110b"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-ExtraLight.ttf",
+      "sha1": "03f11f0309f7f955fe90e3fdf22fee5e60bada4e"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-Light.ttf",
+      "sha1": "67a7446c44660168ed179812753b03390858aa92"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-Medium.ttf",
+      "sha1": "d62e1b2498f65ea5bc20fc5e365d19239527b419"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-Regular.ttf",
+      "sha1": "036b14064c7b90b4b200f2730981effea5e58b15"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-SemiBold.ttf",
+      "sha1": "e423e112f4832916b05308934c10aa84fd14c607"
+    },
+    {
+      "path": "src/assets/fonts/ProzaLibre-Bold.ttf",
+      "sha1": "b134076b8c7e3c254b3af571d11655670ce5cc97"
+    },
+    {
+      "path": "src/assets/fonts/ProzaLibre-BoldItalic.ttf",
+      "sha1": "cbb632d5e4c9ae0abf863ba5f409772283fa41d9"
+    },
+    {
+      "path": "src/assets/fonts/ProzaLibre-ExtraBold.ttf",
+      "sha1": "c78c93e167e12f483eb57c721a61b9b534fd463d"
+    },
+    {
+      "path": "src/assets/fonts/ProzaLibre-ExtraBoldItalic.ttf",
+      "sha1": "e41ee675b201367ede2ab3b765745805fa077285"
+    },
+    {
+      "path": "src/assets/fonts/ProzaLibre-Italic.ttf",
+      "sha1": "74cab1353435dc57ed4f268e0f6fe1678d2722d6"
+    },
+    {
+      "path": "src/assets/fonts/ProzaLibre-Medium.ttf",
+      "sha1": "d617d393ce501d16b93d88164ea3e4e5a0bf2785"
+    },
+    {
+      "path": "src/assets/fonts/ProzaLibre-MediumItalic.ttf",
+      "sha1": "b3c20613622499366194a9ed0b2e3caee7c198cf"
+    },
+    {
+      "path": "src/assets/fonts/ProzaLibre-Regular.ttf",
+      "sha1": "7d7543bdaf350187a2494f10396b1f9ef07e81e7"
+    },
+    {
+      "path": "src/assets/fonts/ProzaLibre-SemiBold.ttf",
+      "sha1": "e5151803a76caa9f0a6dd5decbe805376272f7ac"
+    },
+    {
+      "path": "src/assets/fonts/ProzaLibre-SemiBoldItalic.ttf",
+      "sha1": "0f39b7ac145d9b357793c112b0672ec85822119f"
+    }
+  ]
+}
